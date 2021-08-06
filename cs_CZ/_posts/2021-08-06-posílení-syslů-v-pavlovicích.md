@@ -5,6 +5,7 @@ image: /media/wa0018_620.jpg
 listing_thumbnail: /media/wa0018_274.jpg
 description: Sysli mají trable. V Pavlovicích i jinde musely být populace posíleny.
 date: '2021-08-06'
+logoset: LIFE MZP
 category: news
 layout: news
 ---
