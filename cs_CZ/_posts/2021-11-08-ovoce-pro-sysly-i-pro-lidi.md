@@ -19,46 +19,64 @@ Za spolupráci a pomoc musíme ze srdce poděkovat
 * [Aeroklubu Miroslav](https://aeroklub-miroslav.webnode.cz/) a jeho členům za možnost výsadby dalších stromů na jejich pozemku a pomoc s výsadbou a péčí o stromy!
 * dobrovolníkům, kteří pomohli s výsadbou!
 
-
-
-_Syslí louka u letiště před výsadbou._ 
+__
 
 ![](/media/p5044455.jpg)
 
-_První jáma pro stromky na okraji louky u remízku (Václava sledujte i níže)_
+_Syslí louka u letiště před výsadbou._ 
+
+<br/>
 
 ![](/media/img_6646.jpg)
 
-_Vyměřování míst pro výsadbu. Sadit budeme ovocné stromy většího vzrůstu._ 
+_První jáma pro stromky na okraji louky u remízku (Václava sledujte i níže)_
+
+<br/>
 
 ![](/media/img_6647.jpg)
 
-_Přidávají se další dobrovolníci. Václav vzadu pořád kope první díru._
+_Vyměřování míst pro výsadbu. Sadit budeme ovocné stromy většího vzrůstu._ 
+
+<br/>
 
 ![](/media/img_6775.jpg)
 
-_Vybírání stromků, kam půjde který. Sadit se budou višně, třešně, meruňky, hrušky i jablka._ 
+_Přidávají se další dobrovolníci. Václav vzadu pořád kope první díru._
+
+<br/>
 
 ![](/media/img_6782.jpg)
 
-_Další dobrovolníci stromy sadí a přivazují ke kůlu._
+_Vybírání stromků, kam půjde který. Sadit se budou višně, třešně, meruňky, hrušky i jablka._ 
+
+<br/>
 
 ![](/media/img_7031.jpg)
 
-_Václavovi se líbí u prvních dvou jam._
+_Další dobrovolníci stromy sadí a přivazují ke kůlu._
+
+<br/>
 
 ![](/media/img_6836.jpg)
 
 ![](/media/img_6745.jpg)
 
-_Vysvětlení povídání o Václavovi: v horní části louky jezdila zemědělská technika. Václav na vlastní kůži poznal, co dnešní několikatunové zemědělské stroje dělají se zemědělskou půdou - je z ní beton :-(_
+_Václavovi se líbí u prvních dvou jam._
+
+<br/>
 
 ![](/media/img_6805.jpg)
 
-_Hotovo_
+_Vysvětlení povídání o Václavovi: v horní části louky jezdila zemědělská technika. Václav na vlastní kůži poznal, co dnešní několikatunové zemědělské stroje dělají se zemědělskou půdou - je z ní beton :-(_
+
+<br/>
 
 ![](/media/img_7163.jpg)
 
-_Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
+_Hotovo_
+
+<br/>
 
 ![](/media/img_7009.jpg)
+
+_Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
