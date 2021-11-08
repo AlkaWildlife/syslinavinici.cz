@@ -1,15 +1,14 @@
 ---
 title: 'Ovoce pro sysly, i pro lidi'
-published: false
+published: true
 image: /media/img_6812_v_620.jpg
 listing_thumbnail: /media/img_6812_v_274.jpg
 description: Alej ovocných stromů pomůže syslům v Miroslavi.
 date: '2021-11-08'
+logoset: LIFE MZP
 category: news
 layout: news
 ---
-
-
 Sysli jsou významná potrava pro řadu predátorů. Proto se vyskytují v prostředí, které je přehledné, kde vidí do dálky. Sysli na ploše panáčkují, vzájemně se pískáním varují a snižují tím riziko predace. Některé lokality s výskytem sysla jsou typické velkými plochami nakrátko sečeného porostu. Takové plochy jsou z hlediska predace pro sysly ideální, ale sečené trávníky jsou poměrně málo úživné prostředí. Pro zvýšení úživnosti je možné syslům na těchto lokalitách pomoci malým políčkem obilí, hrášku, vojtěšky nebo třeba vysazením ovocných stromů. 
 
 Z toho důvodu jsme vysadili alej ovocných stromů na jedné ze syslích luk u Miroslavi. Třešně, višně, poté meruňky a rané hrušky a jablka budou postupně v průběhu léta k dispozici jak syslům, tak lidem. Stromy poskytnou stín i domov hmyzu či ptákům. 
@@ -22,7 +21,7 @@ Za spolupráci a pomoc musíme ze srdce poděkovat
 
 \-	dobrovolníkům, kteří pomohli s výsadbou!
 
-
+__
 
 _Syslí louka u letiště před výsadbou._ 
 
