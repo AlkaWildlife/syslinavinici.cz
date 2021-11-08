@@ -15,13 +15,11 @@ Z toho důvodu jsme vysadili alej ovocných stromů na jedné ze syslích luk u 
 
 Za spolupráci a pomoc musíme ze srdce poděkovat 
 
-\-	vedení města Miroslav, které jednak pronajalo svůj pozemek pro podporu syslů a umožnilo výsadbu aleje!
+* [městu Miroslav](https://www.mesto-miroslav.cz/), které jednak pronajalo svůj pozemek pro podporu syslů a umožnilo výsadbu aleje!
+* [Aeroklubu Miroslav](https://aeroklub-miroslav.webnode.cz/) a jeho členům za možnost výsadby dalších stromů na jejich pozemku a pomoc s výsadbou a péčí o stromy!
+* dobrovolníkům, kteří pomohli s výsadbou!
 
-\-	Aeroklubu Miroslav a jeho členům za možnost výsadby dalších stromů na jejich pozemku a pomoc s výsadbou a péčí o stromy!
 
-\-	dobrovolníkům, kteří pomohli s výsadbou!
-
-__
 
 _Syslí louka u letiště před výsadbou._ 
 
