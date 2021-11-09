@@ -89,6 +89,8 @@ _Tato fotografie ukazuje na další důvod, proč jsme vybrali toto místo pro v
 
 _Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
 
+<br/>
+
 ![](/media/img_7171.jpg)
 
-_Na závěr ještě jedna smutná fotka: hned za dva dny již někdo jeden stromek uloupil, zůstal po něm jenom kůl. Neničte stromky, jsou tu pro sysly, pro brouky i včely, pro ptáky, i pro lidi. Každý si může pod strom sednout, či utrhnout zralé ovoce, až stromy vyrostou. _
+_Na závěr ještě jedna smutná fotka: hned za dva dny již někdo jeden stromek uloupil, zůstal po něm jenom kůl. Neničte stromky, jsou tu pro sysly, pro brouky i včely, pro ptáky, i pro lidi. Každý si může pod strom sednout, či utrhnout zralé ovoce, až stromy vyrostou._
