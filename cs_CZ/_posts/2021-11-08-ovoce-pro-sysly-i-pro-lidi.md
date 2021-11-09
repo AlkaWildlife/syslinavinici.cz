@@ -49,7 +49,7 @@ _Přidávají se další dobrovolníci. Václav vzadu pořád kope první díru.
 
 ![](/media/img_6782.jpg)
 
-_Vybírání stromků, kam půjde který. Sadit se budou višně, třešně, meruňky, hrušky i jablka._ 
+_Vybírání stromků, kam půjde který. Sadit se budou višně, třešně, meruňky, hrušky i jablka._ _U višní je to odrůda Újfehértoi furtos a Erdi Botermo, třešně Stella a Rivan, jablka Red Melba, Lebelovo, Coxova Reneta a hrušně Trevouska, Stigrmarka, Spinka a Bohemica._
 
 <br/>
 
