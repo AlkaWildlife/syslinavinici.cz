@@ -9,8 +9,6 @@ logoset: LIFE MZP
 category: news
 layout: news
 ---
-
-
 Sysli jsou významná potrava pro řadu predátorů. Proto se vyskytují v prostředí, které je přehledné, kde vidí do dálky. Sysli na ploše panáčkují, vzájemně se pískáním varují a snižují tím riziko predace. Některé lokality s výskytem sysla jsou typické velkými plochami nakrátko sečeného porostu. Takové plochy jsou z hlediska predace pro sysly ideální, ale sečené trávníky jsou poměrně málo úživné prostředí. Pro zvýšení úživnosti je možné syslům na těchto lokalitách pomoci malým políčkem obilí, hrášku, vojtěšky nebo třeba vysazením ovocných stromů. 
 
 Z toho důvodu jsme vysadili alej ovocných stromů na jedné ze syslích luk u Miroslavi. Třešně, višně, poté meruňky a rané hrušky a jablka budou postupně v průběhu léta k dispozici jak syslům, tak lidem. Stromy poskytnou stín i domov hmyzu či ptákům. 
@@ -94,3 +92,7 @@ _Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
 ![](/media/img_7171.jpg)
 
 _Na závěr ještě jedna smutná fotka: hned za dva dny již někdo jeden stromek uloupil, zůstal po něm jenom kůl. Neničte stromky, jsou tu pro sysly, pro brouky i včely, pro ptáky, i pro lidi. Každý si může pod strom sednout, či utrhnout zralé ovoce, až stromy vyrostou._
+
+<br/>
+
+_Akce byla podpořena z projektu LIFE SYSEL a Ministerstvem životního prostředí. Projekt nemusí vyjadřovat stanoviska MŽP._
