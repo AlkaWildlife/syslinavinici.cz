@@ -79,6 +79,12 @@ _Hotovo_
 
 <br/>
 
+![](/media/img_7186.jpg)
+
+_Tato fotografie ukazuje na další důvod, proč jsme vybrali toto místo pro výsadbu stromů. Cílem také bylo zpestřit lokalitu, kde je travnatá letištní plocha obklopena velkými lány polí._ 
+
+<br/>
+
 ![](/media/img_7009.jpg)
 
 _Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
