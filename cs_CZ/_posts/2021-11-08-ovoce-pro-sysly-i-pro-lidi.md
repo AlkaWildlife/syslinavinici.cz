@@ -9,6 +9,8 @@ logoset: LIFE MZP
 category: news
 layout: news
 ---
+
+
 Sysli jsou významná potrava pro řadu predátorů. Proto se vyskytují v prostředí, které je přehledné, kde vidí do dálky. Sysli na ploše panáčkují, vzájemně se pískáním varují a snižují tím riziko predace. Některé lokality s výskytem sysla jsou typické velkými plochami nakrátko sečeného porostu. Takové plochy jsou z hlediska predace pro sysly ideální, ale sečené trávníky jsou poměrně málo úživné prostředí. Pro zvýšení úživnosti je možné syslům na těchto lokalitách pomoci malým políčkem obilí, hrášku, vojtěšky nebo třeba vysazením ovocných stromů. 
 
 Z toho důvodu jsme vysadili alej ovocných stromů na jedné ze syslích luk u Miroslavi. Třešně, višně, poté meruňky a rané hrušky a jablka budou postupně v průběhu léta k dispozici jak syslům, tak lidem. Stromy poskytnou stín i domov hmyzu či ptákům. 
@@ -67,7 +69,7 @@ _Václavovi se líbí u prvních dvou jam._
 
 ![](/media/img_6805.jpg)
 
-_Vysvětlení povídání o Václavovi: v horní části louky jezdila zemědělská technika. Václav na vlastní kůži poznal, co dnešní několikatunové zemědělské stroje dělají se zemědělskou půdou - je z ní beton :-(_
+_Proč se fotografka zaměřila na Václava? Není tak neschopný jak by se z fotografií zdálo. V horní části louky jezdila zemědělská technika. Václav na vlastní kůži poznal, co dnešní několikatunové zemědělské stroje dělají se zemědělskou půdou - je z ní beton :-(_
 
 <br/>
 
@@ -80,3 +82,7 @@ _Hotovo_
 ![](/media/img_7009.jpg)
 
 _Všem pomocníkům (i těm co na fotografii nejsou) mockrát děkujeme!_
+
+![](/media/img_7171.jpg)
+
+_Na závěr ještě jedna smutná fotka: hned za dva dny již někdo jeden stromek uloupil, zůstal po něm jenom kůl. Neničte stromky, jsou tu pro sysly, pro brouky i včely, pro ptáky, i pro lidi. Každý si může pod strom sednout, či utrhnout zralé ovoce, až stromy vyrostou. _
