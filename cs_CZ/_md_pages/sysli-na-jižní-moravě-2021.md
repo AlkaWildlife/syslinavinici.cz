@@ -8,6 +8,7 @@ description: >-
   terénní mapování výskytu sysla obecného na jižní Moravě v zemědělské krajině,
   spolupráce s místními zemědělci a vlastníky pozemků, osvěta, výsadba dvaceti
   ovocných stromů a posílení populace sysla ve Velkých Pavlovicích. 
+listed: true
 position: 1
 layout: two_columns_page
 logoset: MZP
