@@ -17,11 +17,7 @@ Na Slovensku jsou na tom sysli o něco lépe než u nás, přesto je i zde sysel
 
 Odchyty probíhaly na nejsilnějších koloniích, tedy bratislavském letišti, na rozsáhlých pastvinách Slovenského krasu a na Muránské pastvině, na těchto lokalitách se nachází kolonie o velikosti několika tisíc jedinců. Odchyty probíhaly brzy na jaře, kdy se kolonie probouzí ze zimního spánku a přesunutí jedinci se ještě v letošním roce mohou zapojit do reprodukce v novém domově. V prvním týdnu se odchytilo 138 syslů, přesunuti byli na 15 jiných lokalit, přičemž na nejmenší z nich bylo v loňském roce jen 5 jedinců. 
 
-
-
 Sysli na Slovensku zmizeli, stejně jako u nás, díky změně hospodaření v krajině. Na Slovensku to byl zejména obrovský úbytek pastvy dobytka ve volné krajině. Pastviny jsou pro sysly ideálním prostředím – poskytují syslům krátké travnaté porosty s dostatkem hmyzu a kvetoucích rostlin.  
-
-
 
 ![](/media/img_7943.jpg)
 
@@ -41,7 +37,7 @@ _Sysel odchycený na bratislavském letišti._
 
 ![](/media/img_7933.jpg)
 
-_Poslední večerní kontrola pastí na lokalitě Skalistý potok ve Slovenském krasu. _
+_Poslední večerní kontrola pastí na lokalitě Skalistý potok ve Slovenském krasu._
 
 ![](/media/img_7886.jpg)
 
@@ -49,11 +45,9 @@ _Vypouštění syslů z bratislavského letiště na malé travnaté letiště B
 
 ![](/media/277086258_344524450963396_7568245423487903780_n-1-1206x603.jpg)
 
-_Na záběru z fotopasti je foto samce ze Slovenského krasu (jedinec vpravo s vyholenou značkou v srsti) s místní samicí na lokalitě Horešské lúky. _
+_Na záběru z fotopasti je foto samce ze Slovenského krasu (jedinec vpravo s vyholenou značkou v srsti) s místní samicí na lokalitě Horešské lúky._
 
 ![](/media/img_7850.jpg)
-
-
 
 _Největší populace syslů na Slovensku se nachází na bratislavském letišti a v jeho okolí. Sysli bydlí i na takovýchto travnatých plochách u přiléhajících marketů._
 
@@ -71,8 +65,8 @@ _Syslí kolonie na Zemném hradisku se nachází nedaleko známé Zádielské ti
 
 ![](/media/img_8005.jpg)
 
-Syslí nora na lokalitě Hrhov, opět pastvina dobytka na úpatí planin Slovenského krasu.
+_Syslí nora na lokalitě Hrhov, opět pastvina dobytka na úpatí planin Slovenského krasu._
 
 ![](/media/img_8037.jpg)
 
-_První jarní květy na syslích lokalitách - hlavíček jarní._
+_První jarní květy na syslích lokalitách - hlaváček jarní._
