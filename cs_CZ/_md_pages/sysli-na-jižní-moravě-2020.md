@@ -9,7 +9,7 @@ description: >-
   obnova dvou zarostlých stepních strání, komunikace s místními zemědělci a
   prezentace druhu a známek Sysli na vinici a Sysli v sadu veřejnosti.
 listed: true
-position: 1
+position: 3
 layout: two_columns_page
 ---
 ## REGISTRAČNÍ ČÍSLO
