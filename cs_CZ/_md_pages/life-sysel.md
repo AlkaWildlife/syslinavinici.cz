@@ -11,6 +11,8 @@ REGISTRAČNÍ ČÍSLO: LIFE19 NAT/SK/001069
 
 FINANCOVÁNÍ: Program LIFE NATURA 2000
 
+![](/media/life_natura_logo_300.jpg)
+
 TRVÁNÍ: 9/2020 – 12/2027
 
 PARTNEŘI:
@@ -27,6 +29,8 @@ STRÁNKY PROJEKTU
 
 CÍLOVÉ DRUHY
 sysel obecný
+
+![](/media/logo-projektu_2011_31_broz_sysel_cz_1-0.png)
 
 CÍLOVÁ OBLAST
 Slovensko Polsko Česká republika
