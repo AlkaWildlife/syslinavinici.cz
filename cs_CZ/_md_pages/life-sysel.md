@@ -16,13 +16,13 @@ FINANCOVÁNÍ: Program LIFE NATURA 2000
 TRVÁNÍ: 9/2020 – 12/2027
 
 PARTNEŘI:
-BROZ (hlavní partner) 
-ALKA Wildlife o.p.s 
-Polskie Towarzystwo Ochrony Przyrody “Salamandra” 
-Štátna ochrana prírody Slovenskej republiky 
-Národná zoologická záhrada Bojnice 
 
-Přírodovědecká fakulta UK v Bratislavě
+* BROZ (hlavní partner) 
+* ALKA Wildlife o.p.s 
+* Polskie Towarzystwo Ochrony Przyrody “Salamandra” 
+* Štátna ochrana prírody Slovenskej republiky 
+* Národná zoologická záhrada Bojnice 
+* Přírodovědecká fakulta UK v Bratislavě
 
 STRÁNKY PROJEKTU
 [broz.sk/projekty/life-sysel/](https://broz.sk/projekty/life-sysel/)
@@ -30,7 +30,7 @@ STRÁNKY PROJEKTU
 CÍLOVÉ DRUHY
 sysel obecný
 
-![](/media/logo-projektu_2011_31_broz_sysel_cz_1-0.png)
+![](/media/logo-projektu_broz_sysel_cz_m.png)
 
 CÍLOVÁ OBLAST
 Slovensko Polsko Česká republika
