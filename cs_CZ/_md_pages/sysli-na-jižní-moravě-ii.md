@@ -10,7 +10,7 @@ description: >-
   komunikace s místními zemědělci, předávání informací, spolupráce s nimi na
   jeho ochraně a prezentace druhu a známek Sysli na vinici a Sysli v sadu
   veřejnosti. 
-position: 1
+position: 4
 layout: two_columns_page
 ---
 ## Kód projektu: 148/32/19
