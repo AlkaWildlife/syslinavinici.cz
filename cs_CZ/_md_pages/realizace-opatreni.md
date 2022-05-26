@@ -4,7 +4,7 @@ published: true
 permalink: /projekty/realizace-opatreni
 image: /media/DSCN0196_610.JPG
 listed: true
-position: 3
+position: 7
 layout: two_columns_page
 ---
 # **Realizace opatření ZP sysla obecného na jižní Moravě**
