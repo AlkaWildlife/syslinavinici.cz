@@ -8,6 +8,8 @@ layout: single_column_page
 ---
 [Sysel obecný - jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) (9MB pdf; **brožura **- o syslech na poli, v sadu, ve vinicích i zahradách)
 
+[Sysel a zemědělství](/media/Sysel_zemedelstvi_zprava_final_web.pdf) (10 MB pdf; souhrnná zpráva výzkumného projektu)
+
 [Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web.pdf) (12 MB pdf; **brožura**  -  popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu)
 
 [Sysel obecný - deštníkový druh pro zemědělskou krajinu s vysokou biodiversitou](/media/OP_022020_Sysel.pdf) (článek v časopise **Ochrana přírody 2/2020** o výsledcích průzkumu syslů, rostlin a bezobratlých ve stráních Velkých Pavlovic)
