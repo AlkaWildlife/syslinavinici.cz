@@ -31,9 +31,9 @@ organizace konference, která proběhla ve Velkých Pavlovicích a živě online
 
 [Brožura Sysel obecný  - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf)
 
+[Sysel a zemědělství - souhrnná zpráva projektu](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
+
 [Uspořádání mezinárodní konference Wildlife conservation in human landscapes](https://www.youtube.com/hashtag/conservationandpeople)
-
-
 
 ![](/media/logo_tacr_zakl_inv_300.png)
 
