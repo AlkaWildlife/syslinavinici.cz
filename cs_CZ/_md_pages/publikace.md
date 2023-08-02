@@ -2,6 +2,7 @@
 title: Publikace
 published: true
 permalink: /ke-stazeni/publikace
+description: 'brožury, články pro laickou i odbornou veřejnost'
 listed: true
 position: 2
 layout: single_column_page
