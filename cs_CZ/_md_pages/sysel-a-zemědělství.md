@@ -27,13 +27,33 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 # Výstupy projektu
 
-organizace konference, která proběhla ve Velkých Pavlovicích a živě online na Youtube 1-3.12.2021
+[European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species (pdf)](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species)
+
+
+
+[A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land (pdf)](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land)
+
+
+
+[Unusual habitat of European ground squirrel (Spermophillus citellus) populations in agricultural landscape (pdf)](https://www.alkawildlife.eu/media/Thaya19_Polednikova_etal_fin.pdf)
+
+
+
+
+
+
+
+
+
+
 
 [Brožura Sysel obecný  - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf)
 
 [Sysel a zemědělství - souhrnná zpráva projektu](/media/Sysel_zemedelstvi_zprava_final_web.pdf)
 
-[Uspořádání mezinárodní konference Wildlife conservation in human landscapes](https://www.youtube.com/hashtag/conservationandpeople)
+[kniha abstraktů mezinárodní konference Wildlife conservation in human landscapes (pdf)](https://www.alkawildlife.eu/media/AbstractBook_Wildlife_conservation_human_landscapes_2021.pdf)
+
+[Uspořádání mezinárodní konference Wildlife conservation in human landscapes](https://www.youtube.com/hashtag/conservationandpeople) (záznamy přednášek na kanále Youtube)
 
 ![](/media/logo_tacr_zakl_inv_300.png)
 
