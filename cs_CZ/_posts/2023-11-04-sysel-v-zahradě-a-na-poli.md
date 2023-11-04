@@ -19,37 +19,23 @@ V rámci tříletého výzkumného projektu jsme proto sledovali, které zeměd�
 
 _Výsledky projektu jsme shrnuli do několika publikací, které si můžete přečíst:_
 
-
-
 [Brožura pro zahrádkáře a zemědělce: Sysel obecný - Jak s ním žít?](https://www.syslinavinici.cz/media/ALKA_brozura_SYSEL_tacr.pdf)
 
-
-
 [Odborná zpráva pro pracvníky ochrany přírody: Sysel obecný a zemědělství ](https://www.syslinavinici.cz/media/Sysel_zemedelstvi_zprava_final_web.pdf)
-
-
 
 Vědecké články:
 
 [European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species)
 
-
-
 [A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land)
 
-
-
 [Unusual habitat of European ground squirrel (Spermophillus citellus) populations in agricultural landscape](https://www.alkawildlife.eu/media/Thaya19_Polednikova_etal_fin.pdf)
-
-
-
-
 
 _Sysel okusující sazenice_
 
 ![](/media/f52_00026.jpg)
 
-# Základní výsledky projektu
+# Základní poznatky
 
 Sysli mohou dělat škody na zemědělských plodinách. S přihlédnutím na aktuální stav populací sysla v ČR lze ale očekávat konflikty jen na lokální úrovni. Určité riziko se však týká většiny lokalit, jak zemědělských lokalit na jižní Moravě, tak i dalších, protože většina z nich se zemědělskými pozemky sousedí. 
 
@@ -67,15 +53,9 @@ Výše škod může být velmi odlišná od zanedbatelných až po velmi význam
 
 **V případě vojtěšky je riziko škod vysoké vždy**, nezávisle na velikosti pole. Sysli přímo ve vojtěšce žijí celoročně a budují si zde trvalé nory. V nejbližším okolí syslích kolonií je potřeba nedoporučovat pěstování vojtěšky. 
 
-
-
 **Snížit škody v zahradách lze fyzickými bariérami** (ploty, pařeniště). Plot musí být dobře upraven při zemi, vhodné je králičí pletivo. 
 
 **Škody je možné předpovídat** a řešit tak jejich riziko dopředu. 
-
-
-
-
 
 _Ožrané obilky u vchodu do nory._
 
@@ -85,9 +65,7 @@ _Okolo dočasné nory v poli sysel vyžere kolečko obilí._
 
 ![](/media/dscn4327.jpg)
 
-
-
-# Co vše sysel žere 
+# Co vše sysel žere
 
 Plodiny pěstované lidmi jsou většinou velmi výživné a šťavnaté, proto je také pěstujeme. A to přitahuje i sysly. 
 
@@ -95,13 +73,9 @@ Sysli dokáží vyhrabat větší semena či klíčící rostlinky ještě v zem
 
 Sysli nešplhají po rostlinách, ani do stromů. Pokud se chtějí dostat k něčemu co je výše, pokouší se ohnout či zlomit stonek. Ovoce na keřích či stromech je před nimi v bezpečí. 
 
-
-
 # Jak zabránit škodě na záhonku?
 
 **Různé typy plašících nástrojů na sysly nefungují.** Sysli nijak nereagují na komerčně prodávané zvukové, ani čichové plašiče. Nijak nereagují ani na žádné pohybující se předměty jako jsou větrníky, točící se pet lahve, ani na pohybující se siluety dravce.
-
-
 
 ## Mechanické zábrany
 
@@ -110,8 +84,6 @@ Proti syslům fungují mechanické zábrany jako je plot či pařeniště. Sysli
 _Sysli se na záhonek přes plot s králičím pletivem nedostanou._
 
 ![](/media/f73_00035.jpg)
-
-
 
 ## Výběr plodiny
 
@@ -124,13 +96,5 @@ V období sucha sysli mohou způsobit škody na bramborách, získávají z nich
 ## Vysoká vegetace
 
 Vysoká vegetace syslům nevyhovuje. Nemají tak přehled do okolí a zvyšuje se riziko predace. Pokud tedy ponecháte například při okrajích zahrady neposečenou trávu, vytváříte tak vlastně méně vhodné prostředí pro sysly. Ti se postupně z pozemku vytratí a najdou si vhodnější místo. 
-
- 
-
-
-
-
-
-
 
 ##
