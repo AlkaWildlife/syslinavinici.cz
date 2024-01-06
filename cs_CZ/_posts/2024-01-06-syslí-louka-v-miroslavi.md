@@ -11,7 +11,7 @@ layout: news
 ---
 28.12.2023 
 
-**V Miroslavi se staráme o hektarovou louku v mírném svahu v těsném sousedství travnatého letiště. **
+**V Miroslavi se staráme o hektarovou louku v mírném svahu v těsném sousedství travnatého letiště.**
 
 Pozemek přímo navazuje na travnaté plochy letiště a hlavní kolonii syslů u Miroslavi. Dříve pole se postupně přeměnilo na travnatý porost. Postupně s tím, jak roste kolonie syslů na letišti a rozšiřuje se, začali se objevovat sysli i na této louce. Proto jsme se společně s Aeroklubem Miroslav o louku od roku 2021 začali starat tak, aby vyhovovala potřebám syslů. 
 
@@ -35,11 +35,9 @@ O sázení stromů s dobrovolníky jsme psali [ZDE: Ovoce pro sysly, i pro lidi]
 
 A kolik tedy na louce žije syslů? Dle počtu nor jsme pro rok 2023 odhadli počet jedinců na 30. 
 
-_Graf ukazuje nárůst počtu syslích nor na syslí louce v Miroslavi v jednotlivých letech. _
+_Graf ukazuje nárůst počtu syslích nor na syslí louce v Miroslavi v jednotlivých letech._
 
 ![](/media/vyvoj-nor.jpg)
-
-__
 
 _Jedna z nor na syslí louce v Miroslavi._
 
