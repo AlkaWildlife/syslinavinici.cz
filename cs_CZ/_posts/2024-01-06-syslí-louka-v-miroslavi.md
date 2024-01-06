@@ -4,11 +4,13 @@ published: true
 image: /media/img_0074.jpg
 listing_thumbnail: /media/img_0074_274.jpg
 description: Jak pečovat o louku se sysly? O jednu se staráme v Miroslavi.
-date: '2024-01-06'
+date: '2023-12-28'
 logoset: LIFE MZP
 category: news
 layout: news
 ---
+28.12.2023 
+
 **V Miroslavi se staráme o hektarovou louku v mírném svahu v těsném sousedství travnatého letiště. **
 
 Pozemek přímo navazuje na travnaté plochy letiště a hlavní kolonii syslů u Miroslavi. Dříve pole se postupně přeměnilo na travnatý porost. Postupně s tím, jak roste kolonie syslů na letišti a rozšiřuje se, začali se objevovat sysli i na této louce. Proto jsme se společně s Aeroklubem Miroslav o louku od roku 2021 začali starat tak, aby vyhovovala potřebám syslů. 
@@ -19,15 +21,11 @@ _Při prvním sečení v roce 2021 byla vegetace na louce ještě hodně vysoká
 
 ![](/media/p5254720.jpg)
 
-
-
 Při kraji louky podél polní cesty jsme také vysadili alej ovocných stromů. Stromy zpestří jednolitou plochu, poskytnou stín i vláhu. Ovoce si budou moci utrhnout kolemjdoucí a na tom spadlém na zem si pochutnají sysli. Vysazeny jsou meruňky, třešně, višně i jabloně. Po dvou letech již měli sysli první ovoce. 
 
 _Sázení ovocných stromů při okraji louky na podzim 2021._
 
 ![](/media/img_6812_v_620.jpg)
-
-
 
 _V roce 2023 si již sysli mohli pochutnat na prvních třešních._
 
@@ -44,8 +42,6 @@ _Graf ukazuje nárůst počtu syslích nor na syslí louce v Miroslavi v jednotl
 __
 
 _Jedna z nor na syslí louce v Miroslavi._
-
-
 
 ![](/media/img_9970.jpg)
 
