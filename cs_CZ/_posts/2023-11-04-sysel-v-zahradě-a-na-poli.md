@@ -5,7 +5,7 @@ image: /media/mah07465000.jpg
 listing_thumbnail: /media/mah07465000-274.jpg
 description: 'Sysel je kriticky ohrožený druh, ale překvapivě také může být škůdce. '
 date: '2023-11-04'
-logoset: ''
+logoset: TACR
 category: news
 layout: news
 ---
