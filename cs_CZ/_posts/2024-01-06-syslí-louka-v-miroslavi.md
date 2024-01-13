@@ -15,7 +15,7 @@ layout: news
 
 Pozemek přímo navazuje na travnaté plochy letiště a hlavní kolonii syslů u Miroslavi. Dříve pole se postupně přeměnilo na travnatý porost. Postupně s tím, jak roste kolonie syslů na letišti a rozšiřuje se, začali se objevovat sysli i na této louce. Proto jsme se společně s Aeroklubem Miroslav o louku od roku 2021 začali starat tak, aby vyhovovala potřebám syslů. 
 
-Louku dle růstu vegetace sečeme 3 až 4 ročně. Cílem je udržet výšku porostu maximálně 15 – 20 cm. Posečenou vegetaci shrabujeme, aby na ploše nevytvářela hnijící vrstvu. Část vegetace ponecháváme při okraji lesa jako úkryt pro plazy a část odvážíme jako seno pro dobytek. 
+Louku dle růstu vegetace sečeme 3 až 4 x ročně. Cílem je udržet výšku porostu maximálně 15 – 20 cm. Dle srážek termíny seče mohou být různé. První seče probíhá v polovině května, druhá v druhé polovině června, třetí v srpnu a případně ještě jednou na podzim. Posečenou vegetaci shrabujeme, aby na ploše nevytvářela hnijící vrstvu. Část vegetace ponecháváme při okraji lesa jako úkryt pro plazy a část odvážíme jako seno pro dobytek. 
 
 _Při prvním sečení v roce 2021 byla vegetace na louce ještě hodně vysoká a hustá. Biomasy bylo hodně._
 
