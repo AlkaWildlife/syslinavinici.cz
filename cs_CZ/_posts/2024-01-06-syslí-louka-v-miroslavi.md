@@ -21,6 +21,10 @@ _Při prvním sečení v roce 2021 byla vegetace na louce ještě hodně vysoká
 
 ![](/media/p5254720.jpg)
 
+_Postupně se vegetace na louce mění a při častějším sečení není biomasy mnoho. I tak je ale z lokality odvážena pryč. Vrstva posečené trávy není prospěšná ani samotné vegetaci, ani pro hmyz, ani pro sysly. _
+
+![](/media/img_0072_m.jpg)
+
 Při kraji louky podél polní cesty jsme také vysadili alej ovocných stromů. Stromy zpestří jednolitou plochu, poskytnou stín i vláhu. Ovoce si budou moci utrhnout kolemjdoucí a na tom spadlém na zem si pochutnají sysli. Vysazeny jsou meruňky, třešně, višně i jabloně. Po dvou letech již měli sysli první ovoce. 
 
 _Sázení ovocných stromů při okraji louky na podzim 2021._
