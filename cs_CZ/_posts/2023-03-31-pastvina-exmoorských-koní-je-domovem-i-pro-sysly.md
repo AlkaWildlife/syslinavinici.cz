@@ -17,6 +17,10 @@ Exmoorští koně dorazili do NP Podyjí v roce 2018 a od té doby pomáhají ud
 
 Sysli do pastviny nespadli z nebe, ani je zde nikdo nedovezl. V okolí Hnanic se daří několika větším či menším skupinkám syslů – sysli žijí na hnanickém hřišti, ve vinicích, i přímo na okraji obce u Sklepní ulice. Mladí jedinci z těchto skupinek při disperzi hledají nové vhodné plochy. Zemědělská krajina při jižním okraji národního parku v katastru obcí Hnanice, Havraníky, Popice a Konice je velmi pestrá. Mozaika různých typů prostředí umožnuje migrujícím syslům putovat krajinou a najít nový domov. 
 
+Pastviny a pastva dobytka je obecně velmi vhodné prostředí pro sysla obecného. Pastvou se vytváří porost, který syslům velmi vyhovuje. Zvířata spásají vegetaci nerovnoměrně, a tak vznikají na ploše pestré porosty různých druhů trav i bylin. Vzniká otevřený prostor, kde mají sysli přehled o predátorech a dalším nebezpečí a zároveň se na pastvině vyskytuje velké množství druhů rostlin, které poskytují syslům pestrý zdroj potravy. Pastviny vyhovují i hmyzu a dalším bezobratlým a ti jsou také důležitou složkou potravy syslů. 
+
+V České republice je velmi málo lokalit s výskytem syslů, kde se pase dobytek. V podstatě se jedná ve všech případech o maloplošná zvláště chráněná území, kde je pastva prováděna jako ochranářský management. Jde např. o lokality v Českém Středohoří, na Moravě jsou to např. PR Nad řekami či NPP Miroslavské kopce.  Na těchto lokalitách se pastva provádí převážně ovcemi. V tomto směru se naše lokality liší např. od slovenských, kde jsou pastviny (ovcí, ale i krav) nejběžnějším prostředím pro sysla. 
+
 _Pastvina exmoorských koní u Havraníků_
 
 ![](/media/ep_01.jpg)
