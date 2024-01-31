@@ -21,7 +21,7 @@ _Při prvním sečení v roce 2021 byla vegetace na louce ještě hodně vysoká
 
 ![](/media/p5254720.jpg)
 
-_Postupně se vegetace na louce mění a při častějším sečení není biomasy mnoho. I tak je ale z lokality odvážena pryč. Vrstva posečené trávy není prospěšná ani samotné vegetaci, ani pro hmyz, ani pro sysly. _
+_Postupně se vegetace na louce mění a při častějším sečení není biomasy mnoho. I tak je ale z lokality odvážena pryč. Vrstva posečené trávy není prospěšná ani samotné vegetaci, ani pro hmyz, ani pro sysly._
 
 ![](/media/img_0072_m.jpg)
 
