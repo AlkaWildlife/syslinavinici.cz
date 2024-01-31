@@ -12,6 +12,10 @@ layout: news
 Ve stráních Velkých Pavlovic žijí ve vinicích a sadech sysli. Odborný odhad velikosti populace byl ještě pro rok 2019 okolo 550 syslů na poměrně velké ploše okolo 500 hektarů. Bohužel během let 2020 a 2021 se situace dramaticky změnila a v Pavlovicích zůstalo jen asi 20 syslů. Příčina není úplně zřejmá, nejspíše přívalové deště a celkově deštivé počasí v těchto letech. 
 Sysli zůstali v maličkých skupinách či jednotlivě roztroušeně na několika místech. Naštěstí se zdá, že se situace pomalu zlepšuje, v loňském roce byl odhad 30 jedinců a po letošním mapování můžeme říci, že počty jsou zase o maličko lepší. Místní malé rodinné firmy ve stráních hospodaří na drobných pozemcích, což vytváří nezvyklou krajinnou pestrost. A to je důvod proč zde sysli žijí a proč, doufejme, se celá populace znovu sama obnoví. 
 
+_V roce 2023 nalezené aktivní nory syslů či pozorovaní sysli jsou zobrazeni červenými body v mapě. Zelené plochy se kompletně procházely, ostatní území se prošlo namátkově či se prohlíželo dalekohledem. Některé nory byly také nalezeny na základě hlášení od místních vinařů._ 
+
+![](/media/velkepavlovice_sysel_2023_m.jpg)
+
 _Tito prckové měli letos ještě minimálně jednoho sourozence, který se ale vyfotit nechtěl. Právě se krmili na plodech moruše, které popadaly na zem. Moruše jsou poměrně vzácně vysazovány, přitom poskytují zajímavé ovoce např. pro marmelády a minimálně syslům velmi chutnají. Okolo jedné moruše v Bedřiškách se drží celá větší skupina syslů._
 
 ![](/media/dscn9218.jpg)
@@ -31,3 +35,9 @@ _Tato samice na trávníku při okraji polní cesty pilně obnovuje hnízdní v�
 _Vinice nejsou velmi úživné prostředí, ale plochou vytváří hlavní prostředí pro sysly v Pavlovicích._
 
 ![](/media/dscn9116.jpg)
+
+
+
+Protože jsou sysli ve Velkých Pavlovicích již třetím rokem ve velmi nízkých počtech, budeme moc rádi za jakékoliv zprávy o jejich výskytu. 
+
+Aktivita je podpořena Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
