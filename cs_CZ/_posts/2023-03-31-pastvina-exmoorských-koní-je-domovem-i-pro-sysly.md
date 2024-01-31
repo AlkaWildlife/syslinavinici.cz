@@ -33,7 +33,7 @@ _Pastvina vzniká v místech, kde dlouho nebyly prováděny žádné zásahy a l
 
 ![](/media/ep_04.jpg)
 
-_Zarostlé plochy se postupně otvírají a obnovuje se původní pastevní vegetace. Teprve na výrazně otevřených plochách se může usadit i sysel. _
+_Zarostlé plochy se postupně otvírají a obnovuje se původní pastevní vegetace. Teprve na výrazně otevřených plochách se může usadit i sysel._
 
 ![](/media/ep_05.jpg)
 
@@ -41,13 +41,13 @@ _Typickým obyvatelem pastviny i celého NP Podyjí je ještěrka zelená_
 
 ![](/media/ep_06.jpg)
 
-_Koniklec velkokvětý zdobí pastvinu v jarním období. _
+_Koniklec velkokvětý zdobí pastvinu v jarním období._
 
 ![](/media/ep_07.jpg)
 
 ![](/media/ep_08.jpg)
 
-_Pohled z pastviny na pestrou zemědělskou krajinu při okraji NP Podyjí _
+_Pohled z pastviny na pestrou zemědělskou krajinu při okraji NP Podyjí_
 
 ![](/media/ep_09.jpg)
 
