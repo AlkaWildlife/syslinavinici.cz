@@ -21,19 +21,19 @@ Pastviny a pastva dobytka je obecně velmi vhodné prostředí pro sysla obecné
 
 V České republice je velmi málo lokalit s výskytem syslů, kde se pase dobytek. V podstatě se jedná ve všech případech o maloplošná zvláště chráněná území, kde je pastva prováděna jako ochranářský management. Jde např. o lokality v Českém Středohoří, na Moravě jsou to např. PR Nad řekami či NPP Miroslavské kopce.  Na těchto lokalitách se pastva provádí převážně ovcemi. V tomto směru se naše lokality liší např. od slovenských, kde jsou pastviny (ovcí, ale i krav) nejběžnějším prostředím pro sysla. 
 
-_Pastvina exmoorských koní u Havraníků_
+_Pastvina exmoorských koní u Havraníků._
 
 ![](/media/ep_01.jpg)
 
-_Syslí nora na pastvině_
+_Syslí nora na pastvině. Sysli našli otevřenou plochu ve břehu při okraji pastviny._
 
 ![](/media/ep_02.jpg)
 
-_Nálet a ostružiní se postupně odstraňuje_
+_Pastvina vzniká v místech, kde dlouho nebyly prováděny žádné zásahy a lokalita postupně zarostla náletem i invazními dřevinami. Nálet a ostružiní se postupně odstraňuje._
 
 ![](/media/ep_04.jpg)
 
-_Zarostlé plochy se postupně otvírají a obnovuje se původní pastevní vegetace_
+_Zarostlé plochy se postupně otvírají a obnovuje se původní pastevní vegetace. Teprve na výrazně otevřených plochách se může usadit i sysel. _
 
 ![](/media/ep_05.jpg)
 
@@ -41,7 +41,7 @@ _Typickým obyvatelem pastviny i celého NP Podyjí je ještěrka zelená_
 
 ![](/media/ep_06.jpg)
 
-_Koniklec velkokvětý aktuálně zdobí pastvinu_
+_Koniklec velkokvětý zdobí pastvinu v jarním období. _
 
 ![](/media/ep_07.jpg)
 
