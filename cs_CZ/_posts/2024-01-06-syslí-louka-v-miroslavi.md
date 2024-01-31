@@ -50,3 +50,7 @@ _Jedna z nor na syslí louce v Miroslavi._
 _Jeden ze syslů, který se na louce našel nový domov._
 
 ![](/media/dscn8161.jpg)
+
+
+
+Aktivita je podpořena Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
