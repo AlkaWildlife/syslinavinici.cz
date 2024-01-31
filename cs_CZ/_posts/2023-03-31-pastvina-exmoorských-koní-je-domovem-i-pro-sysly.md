@@ -50,3 +50,7 @@ _Koniklec velkokvětý zdobí pastvinu v jarním období. _
 _Pohled z pastviny na pestrou zemědělskou krajinu při okraji NP Podyjí _
 
 ![](/media/ep_09.jpg)
+
+
+
+Aktivita je podpořena Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
