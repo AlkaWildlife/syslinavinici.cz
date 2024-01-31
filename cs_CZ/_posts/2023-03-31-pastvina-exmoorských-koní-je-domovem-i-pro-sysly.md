@@ -11,7 +11,7 @@ logoset: LIFE MZP
 category: news
 layout: news
 ---
-Syslí kolonie zanikají, jako například [populace syslů v Újezdě u Brna, kde byl poslední sysel spatřen v roce 2020](/news/populace-syslů-v-újezdě-u-brna-zanikla). Naštěstí ale vznikají i nové. Jednou z nejnovějších je kolonie syslů v pastvině exmoorských divokých koní u Havraníků v národním parku Podyjí. 
+Syslí kolonie zanikají, jako například [populace syslů v Újezdě u Brna, kde byl poslední sysel spatřen v roce 2020](/news/populace-syslů-v-újezdě-u-brna-zanikla). Naštěstí ale vznikají i nové! Jednou z nejnovějších je kolonie syslů v pastvině exmoorských divokých koní u Havraníků v národním parku Podyjí. 
 
 Exmoorští koně dorazili do NP Podyjí v roce 2018 a od té doby pomáhají udržovat stepní trávníky u Havraníků. Po čtyřech letech pastvy, v roce 2022, pracovníci NP objevili první nory syslů přímo na pastvině. Zarostlé vřesoviště je díky pastvě koní a managementu opětovně vhodným prostředím pro druhy otevřeného prostředí, včetně sysla obecného. 
 
@@ -50,7 +50,5 @@ _Koniklec velkokvětý zdobí pastvinu v jarním období._
 _Pohled z pastviny na pestrou zemědělskou krajinu při okraji NP Podyjí_
 
 ![](/media/ep_09.jpg)
-
-
 
 Aktivita je podpořena Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
