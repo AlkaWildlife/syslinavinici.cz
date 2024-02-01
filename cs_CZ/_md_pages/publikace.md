@@ -21,8 +21,6 @@ layout: single_column_page
 
 [Ohrožený a vzácný "škůdce" sysel](/media/Hrusovany-zpravodaj-2020-sysel.pdf) (článek v **Hrušovanském zpravodaji 2020**)
 
-
-
 # Brožury
 
 [Sysel obecný - jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) (9MB pdf; **brožura**- o syslech na poli, v sadu, ve vinicích i zahradách)
@@ -39,9 +37,19 @@ layout: single_column_page
 
 [Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_VelkePavlovice.pdf)
 
+# Roční zprávy o výsledcích monitoringu sysla 
 
+[Monitoring populací sysla obecného na jižní Moravě v roce 2023](/media/Sysel_monitoring_2023.pdf)
 
+[Monitoring populací sysla obecného na jižní Moravě v roce 2022](/media/Sysel_monitoring_2022.pdf)
 
+Monitoring sysla obecného na jižní Moravě 2021
+
+Monitoring a výzkum populací sysla obecného na jižní Moravě v roce 2020
+
+Monitoring populací sysla obecného na jižní Moravě v roce 2019
+
+Monitoring sysla obecného na jižní Moravě v roce 2018
 
 # Vědecké publikace
 
