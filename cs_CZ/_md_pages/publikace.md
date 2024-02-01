@@ -37,7 +37,7 @@ layout: single_column_page
 
 [Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_VelkePavlovice.pdf)
 
-# Roční zprávy o výsledcích monitoringu sysla 
+# Zprávy o výsledcích monitoringu sysla 
 
 (roční zprávy ALKA Wildlife vybraných populací sysla na jižní Moravě; základní monitoring všech populací je realizován AOPK ČR)
 
