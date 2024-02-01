@@ -39,6 +39,8 @@ layout: single_column_page
 
 # Roční zprávy o výsledcích monitoringu sysla 
 
+(roční zprávy ALKA Wildlife vybraných populací sysla na jižní Moravě; základní monitoring všech populací je realizován AOPK ČR)
+
 [Monitoring populací sysla obecného na jižní Moravě v roce 2023](/media/Sysel_monitoring_2023.pdf)
 
 [Monitoring populací sysla obecného na jižní Moravě v roce 2022](/media/Sysel_monitoring_2022.pdf)
