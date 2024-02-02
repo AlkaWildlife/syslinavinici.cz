@@ -3,7 +3,7 @@ title: Sysel a zemědělství
 published: true
 permalink: /projekty/sysel-a-zemedelstvi
 listed: true
-position: 7
+position: 2
 layout: two_columns_page
 logoset: TACR
 ---
@@ -29,23 +29,9 @@ Sysel obecný dříve běžný, plošně se vyskytující zemědělský škůdce
 
 [European ground squirrels in backyard gardens: Identifying and mitigating agricultural conflicts with an endangered species (pdf)](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/european-ground-squirrels-in-backyard-gardens-identifying-and-mitigating-agricultural-conflicts-with-an-endangered-species)
 
-
-
 [A spatial tool to identify potential conflict hotspots for the European ground squirrel in agricultural land (pdf)](https://museucienciesjournals.cat/abc/issue/46-2-2023-abc/a-spatial-tool-to-identify-potential-conflict-hotspots-for-the-european-ground-squirrel-in-agricultural-land)
 
-
-
 [Unusual habitat of European ground squirrel (Spermophillus citellus) populations in agricultural landscape (pdf)](https://www.alkawildlife.eu/media/Thaya19_Polednikova_etal_fin.pdf)
-
-
-
-
-
-
-
-
-
-
 
 [Brožura Sysel obecný  - Jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf)
 
