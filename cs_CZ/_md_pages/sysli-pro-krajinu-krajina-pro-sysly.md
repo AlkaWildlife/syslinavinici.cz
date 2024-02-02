@@ -5,7 +5,7 @@ permalink: /projekty/sysli-pro-krajinu-krajina-pro-sysly
 long_title: 'Sysli pro krajinu, krajina pro sysly '
 subtitle: ''
 listed: true
-position: 6
+position: 7
 layout: single_column_page
 ---
 # Kód projektů:
