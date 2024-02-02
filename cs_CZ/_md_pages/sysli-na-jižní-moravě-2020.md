@@ -1,5 +1,5 @@
 ---
-title: Sysli na jižní Moravě 2020
+title: Sysli na Moravě 2020
 published: true
 permalink: /projekty/sysli_jizni_morava_2020
 long_title: Monitoring a podpora sysla obecného na jižní Moravě 2020
@@ -9,7 +9,7 @@ description: >-
   obnova dvou zarostlých stepních strání, komunikace s místními zemědělci a
   prezentace druhu a známek Sysli na vinici a Sysli v sadu veřejnosti.
 listed: true
-position: 3
+position: 5
 layout: two_columns_page
 ---
 ## REGISTRAČNÍ ČÍSLO
