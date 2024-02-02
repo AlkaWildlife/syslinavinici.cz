@@ -1,5 +1,5 @@
 ---
-title: Sysli na jižní Moravě 2021
+title: Sysli na Moravě 2021
 published: true
 permalink: /projekty/sysli_jizni_morava_2021
 long_title: Monitoring a podpora sysla obecného na jižní Moravě 2021
