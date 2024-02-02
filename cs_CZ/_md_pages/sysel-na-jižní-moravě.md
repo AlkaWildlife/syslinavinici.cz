@@ -10,7 +10,7 @@ description: >-
   projektu je komunikace s místními zemědělci, předávání informací, spolupráce s
   nimi na jeho ochraně a prezentace druhu a známky Sysli na vinici veřejnosti. 
 listed: true
-position: 5
+position: 6
 layout: single_column_page
 aside_links: Projekt financovaný MŽP byl realizovaný v roce 2018.
 ---
