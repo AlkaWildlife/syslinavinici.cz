@@ -9,7 +9,7 @@ description: >-
   spolupráce s místními zemědělci a vlastníky pozemků, osvěta, výsadba dvaceti
   ovocných stromů a posílení populace sysla ve Velkých Pavlovicích. 
 listed: true
-position: 2
+position: 4
 layout: two_columns_page
 logoset: MZP
 ---
