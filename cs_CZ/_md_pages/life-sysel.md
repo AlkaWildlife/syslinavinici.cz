@@ -4,6 +4,7 @@ published: true
 permalink: /projekty/life_sysel
 long_title: LIFE SYSEL
 description: ' Projekt má přispět k aktivní ochraně biotopů ohroženého sysla obecného na vybraných lokalitách na Slovensku, v České republice a Polsku. '
+listed: true
 position: 1
 layout: two_columns_page
 ---
@@ -17,7 +18,7 @@ TRVÁNÍ: 9/2020 – 12/2027
 
 PARTNEŘI:
 
-* BROZ (hlavní partner) 
+* BROZ - ochranárske sdruženie (hlavní partner) 
 * ALKA Wildlife o.p.s 
 * Polskie Towarzystwo Ochrony Przyrody “Salamandra” 
 * Štátna ochrana prírody Slovenskej republiky 
