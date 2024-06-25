@@ -11,6 +11,8 @@ logoset: LIFE MZP
 category: news
 layout: news
 ---
+25.6.2024
+
 Dvě jihomoravská vinařství tento týden byla nově oceněna známkou Sysli na vinici, tentokrát z obce Jaroslavice. 
 
 Obec Jaroslavice leží přímo u česko-rakouské hranice. Když se na rakouské straně daří koloniím syslů, dostanou se syslí migranti občas i přes hranici a snaží se usadit u nás. Jestli se jim to podaří, záleží na tom, jaké prostředí zde najdou, jak se na české straně hospodaří. Jedno z takových míst na jižní Moravě, kde sysli přebíhají přes státní hranici, je u obce Jaroslavice. Jaroslavičtí, zejména děti, znají sysly již několik let z fotbalového a školního hřiště, kde se drží malá syslí populace. Nejsou to ale jediná místa, kde se sysli v Jaroslavicích usadili. Menší skupinky syslů žijí také ve vojtěškovém poli, či v sadu u hřiště. 
