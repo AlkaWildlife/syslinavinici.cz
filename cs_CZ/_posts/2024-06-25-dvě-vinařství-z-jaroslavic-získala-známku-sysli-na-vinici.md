@@ -19,13 +19,7 @@ Dvě samostatné syslí kolonie se utvořily také ve viniční trati „Na vini
 
 _První známka vylepená na láhev vína z Jaroslavic._
 
-
-
-
-
 ![](/media/img_9948_620.jpg)
-
-
 
 _Sysel ve vinici u Mühlbergerů._
 
@@ -46,8 +40,6 @@ _Vinice vinařství Pekárek._
 _Vinice vinařství Mühlberger._
 
 ![](/media/dscn8847_620.jpg)
-
-
 
 Aktivita je podpořena projektem LIFE SYSEL a Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
 
