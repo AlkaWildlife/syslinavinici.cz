@@ -6,12 +6,10 @@ listed: true
 position: 1
 layout: two_columns_page
 ---
-V současnosti mají známku Sysli na vinici uděleny vinařství ze tří vinařských obcí: Velké
-Pavlovice, Hnanice a Miroslav. Odkazy Vás navedou na jejich webové stránky, kde
+V současnosti mají známku Sysli na vinici uděleny vinařství ze čtyř vinařských obcí: Velké
+Pavlovice, Hnanice, Miroslav a Jaroslavice. Odkazy Vás navedou na jejich webové stránky, kde
 najdete více informací o těchto vinařstvích, zajímavosti i e-shopy, kde si můžete
 jejich víno nakoupit.
-
-Protože se blíží Vánoce, přichystali jsme pro vás i drobné syslí dárečky, které vám vinaři pošlou s objednaným vínem, do poznámek k objednávce pište tajné heslo "Sysli na vinici". Na vizitkách jsou nyní i uvedeny aktuální informace, jestli vinaři ještě před Vánoci syslí víno mají.
 
 ## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
 
