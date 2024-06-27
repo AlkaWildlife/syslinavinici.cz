@@ -11,6 +11,10 @@ Pavlovice, Hnanice, Miroslav a Jaroslavice. Odkazy Vás navedou na jejich webov
 najdete více informací o těchto vinařstvích, zajímavosti i e-shopy, kde si můžete
 jejich víno nakoupit.
 
+## [![Vinařství Pekárek](/media/kartička_pekarek.jpg)](https://www.vinarstvipekarek.cz)
+
+## [![Vinařství Pekárek](/media/kartička_muhlberger.jpg)](https://www.muhlberger.eu)
+
 ## [![Vinařství Michna](/media/kartička_michna.jpg "Vinařství Michna")](http://bit.ly/michnacz "Vinařství Michna")
 
 ## [![Vinařství Řádek](/media/kartička_radek.jpg "Vinařství Řádek")](http://www.vinarstviradek.cz)
