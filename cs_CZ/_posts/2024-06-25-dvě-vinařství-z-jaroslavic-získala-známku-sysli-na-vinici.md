@@ -1,5 +1,5 @@
 ---
-title: Dvě vinařství z Jaroslavic získala známku Sysli na vinici
+title: Dvě vinařství z Jaroslavic získala známku
 published: true
 image: /media/img_9882_620.jpg
 listing_thumbnail: /media/img_9882_274.jpg
