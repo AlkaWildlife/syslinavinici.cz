@@ -7,6 +7,7 @@ description: >-
   Na Znojemsku vzniká nová kolonie sysla obecného. Vzácní savci našli domov u
   Božic.
 date: '2024-07-15'
+logoset: LIFE
 category: news
 layout: news
 ---
@@ -71,7 +72,3 @@ _Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
 _Sysel obecný zachycený fotopastí na lokalitě Božice-Borotice_
 
 ![](/media/l__02703.jpg)
-
-_Sysli z Miroslavi už se také zabydlují v Božicích_
-
-![](/media/img_0162.jpg)
