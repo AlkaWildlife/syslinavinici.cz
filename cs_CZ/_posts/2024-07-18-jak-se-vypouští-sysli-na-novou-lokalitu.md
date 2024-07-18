@@ -57,3 +57,5 @@ _Cílový stav - sysel na louce plné květů a hmyzu._
 ![](/media/img_0255.jpg)
 
 ![](/media/img_0193.jpg)
+
+Aktivita je podpořena projektem LIFE SYSEL a Ministerstvem životního prostředí, nemusí vyjadřovat stanoviska MŽP.
