@@ -18,7 +18,7 @@ Následuje příprava plochy a samotné vypuštění. Vypouštění probíhá po
 
 Úspěšnost akce je ovlivněna také množstvím vypuštěných syslů. To samozřejmě záleží na tom, kolik jich je k dispozici ze záchranných chovů, případně z jiných kolonií. Dle záchranného programu je považováno za dostatečný počet 60 jedinců.  
 
-_V dočasné ohrádce jsou předvrtány umělé nory, jako úkryt slouží palety a seno. Pro sysly je přichystána potrava - slunečnice, ovoce a pro případ vysokých teplot také napáječka s vodou. _
+_V dočasné ohrádce jsou předvrtány umělé nory, jako úkryt slouží palety a seno. Pro sysly je přichystána potrava - slunečnice, ovoce a pro případ vysokých teplot také napáječka s vodou._
 
 ![](/media/20240710_093142.jpg)
 
@@ -42,7 +42,7 @@ _Tento sysel se od místa vypuštění nijak nevzdálil a pohybuje se mezi ohrá
 
 ![](/media/img_0235.jpg)
 
-_Tento sysel i po vypuštění zabíhá zpátky do otevřené ohrádky pro potravu. _
+_Tento sysel i po vypuštění zabíhá zpátky do otevřené ohrádky pro potravu._
 
 ![](/media/img_0298.jpg)
 
