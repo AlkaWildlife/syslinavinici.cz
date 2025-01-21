@@ -7,7 +7,7 @@ description: >-
   Jak závažná jsou rizika negativních jevů způsobených genetickou izolovaností
   pro syslí populace v České republice? To odpoví nový výzkumný projekt.
 date: '2025-01-21'
-logoset: ''
+logoset: TACR
 category: news
 layout: news
 ---
