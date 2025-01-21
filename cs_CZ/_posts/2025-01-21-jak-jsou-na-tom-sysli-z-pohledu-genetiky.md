@@ -23,11 +23,11 @@ _V místě výskytu syslů jsou umístěny živochytné pasti, které jsou pod n
 
 ![](/media/img_9953_620.jpg)
 
-_Sysel v odchytové pasti. _
+_Sysel v odchytové pasti._
 
 ![](/media/img_9969_620.jpg)
 
-K_ufr vozu slouží jako terénní stanice. Sysli jsou hned po odchytu vyndáni z pasti, zváženi, je určeno pohlaví a je odebrán vzorek pro DNA analýzu. Poté je sysel ihned vypuštěn zpět do své nory. _
+_Kufr vozu slouží jako terénní stanice. Sysli jsou hned po odchytu vyndáni z pasti, zváženi, je určeno pohlaví a je odebrán vzorek pro DNA analýzu. Poté je sysel ihned vypuštěn zpět do své nory._
 
 ![](/media/img_9972_620.jpg)
 
