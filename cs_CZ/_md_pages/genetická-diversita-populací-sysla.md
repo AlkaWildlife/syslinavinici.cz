@@ -19,7 +19,7 @@ Trvání: 4/2024 – 12/2026
 
 ## Partneři
 
-hlavní příjemce: Jihočeská Univerzita v Českých Budějovicích
+vedoucí partner: Jihočeská Univerzita v Českých Budějovicích
 
 další partneři:
 
