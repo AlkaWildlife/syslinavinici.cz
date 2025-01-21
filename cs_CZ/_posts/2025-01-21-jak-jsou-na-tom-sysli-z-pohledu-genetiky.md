@@ -31,6 +31,6 @@ K_ufr vozu slouží jako terénní stanice. Sysli jsou hned po odchytu vyndáni 
 
 ![](/media/img_9972_620.jpg)
 
-Poté práce přechází do laboratoře, kde se musí z tkáně izolovat DNA. V rámci projektu bude použita moderní robustní metoda sekvenování vzorků z řady tzv. next- generation sequencing. Jedná se o celogenomové sekvenování metodou ddRAD. Všechny dřívější studie zaměřené na genetickou variabilitu sysla obecného v ČR, byly založeny na analýze mikrosatelitových dat, selektivně neutrální lokusech, a na genu podléhajícím selektivitě, konkrétně gen RB z II. třídy hlavního histokompatibilního.
+Poté práce přechází do laboratoře, kde se musí z tkáně izolovat DNA. V rámci projektu bude použita moderní robustní metoda sekvenování vzorků z řady tzv. next- generation sequencing. Jedná se o celogenomové sekvenování metodou ddRAD. Všechny dřívější studie zaměřené na genetickou variabilitu sysla obecného v ČR, byly založeny na analýze mikrosatelitových dat, selektivně neutrální lokusech, a na genu podléhajícím selektivitě, konkrétně gen RB z II. třídy hlavního histokompatibilního komplexu.
 
 [Více o zapojení pracovišť, konkrétních cílech se můžete dočíst na stránce projektu, kde budou také postupně přibývat aktuality a konkrétní výsledky.](/projekty/sysel_genetika)
