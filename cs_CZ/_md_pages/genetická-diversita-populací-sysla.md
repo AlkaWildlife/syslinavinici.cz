@@ -17,6 +17,8 @@ Financování: TAČR Program Prostředí pro život
 
 ![](/media/logo_tacr_zakl_inv_300.png)
 
+![](/media/prostredi_pz_300.png)
+
 Trvání: 4/2024 – 12/2026
 
 ## Partneři
