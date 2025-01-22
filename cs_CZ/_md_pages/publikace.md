@@ -23,11 +23,11 @@ layout: single_column_page
 
 # Brožury
 
-[Sysel obecný - včera soused, dneska rarita (3,6 MB, **brožura**)](/media/ALKA_brozura_sysel_2024_web.pdf)
+[Sysel obecný - včera soused, dneska rarita](/media/ALKA_brozura_sysel_2024_web.pdf) (2024, 3,6 MB, **brožura**)
 
-[Sysel obecný - jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) (9MB pdf; **brožura**- o syslech na poli, v sadu, ve vinicích i zahradách)
+[Sysel obecný - jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) (2023, 9MB pdf; **brožura**- o syslech na poli, v sadu, ve vinicích i zahradách)
 
-[Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web.pdf) (12 MB pdf; **brožura**  -  popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu)
+[Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web.pdf) (2019, 12 MB pdf; **brožura**  -  popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu)
 
 # Pro pracovníky OOP
 
