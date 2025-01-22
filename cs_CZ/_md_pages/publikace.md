@@ -23,6 +23,8 @@ layout: single_column_page
 
 # Brožury
 
+[Sysel obecný - včera soused, dneska rarita (3,6 MB, **brožura**)](/media/ALKA_brozura_sysel_2024_web.pdf)
+
 [Sysel obecný - jak s ním žít?](/media/ALKA_brozura_SYSEL_tacr.pdf) (9MB pdf; **brožura**- o syslech na poli, v sadu, ve vinicích i zahradách)
 
 [Sysli pro krajinu, krajina pro sysly](/media/brozura_SYKR_CZ_web.pdf) (12 MB pdf; **brožura**  -  popisuje základní biologii a ekologii sysla obecného, jak jej poznat, současný stav jeho populací, legislativní status a aktivity k posílení populací sysla včetně správného managementu)
@@ -37,7 +39,7 @@ layout: single_column_page
 
 [Mapa potenciálního rizika škod způsobených syslem  - Velké Pavlovice (pdf)](/media/Mapa_rizika_skod_sysel_VelkePavlovice.pdf)
 
-# Zprávy o výsledcích monitoringu sysla 
+# Zprávy o výsledcích monitoringu sysla
 
 (roční zprávy ALKA Wildlife vybraných populací sysla na jižní Moravě; základní monitoring všech populací je realizován AOPK ČR)
 
