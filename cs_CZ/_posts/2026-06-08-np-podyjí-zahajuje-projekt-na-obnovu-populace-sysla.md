@@ -44,4 +44,4 @@ Přínosem projektu proto nebude pouze posílení populace sysla, ale také obno
 
 Projekt „Zpátky na step – obnova populace sysla na Podyjí“, CH-V2-58 je financován z Programu švýcarsko-české spolupráce v rámci programu Udržitelný turismus a posílení biodiverzity. Výše dotace je 4,5 mil. Kč, což představuje 90 % celkových způsobilých výdajů. Celkový rozpočet projektu činí 5 mil. Kč
 
-![](/media/2chb_czechrepublic_cz_pos_rgb.png)
+![](/media/2chb_czechrepublic_cz_pos_rgb_620.png)
