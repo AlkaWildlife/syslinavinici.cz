@@ -21,10 +21,6 @@ Původně pole v sousedství letiště bylo ponecháno ladem a postupně se pře
 
 ![](/media/dscn0626.jpg)
 
-
-
-
-
 Od roku 2021 je na ploše realizován management s cílem zajistit další vhodně obhospodařovaný pozemek pro lokální populaci sysla obecného a zároveň zde vytvořit prostor pro celé společenstvo rostlin a živočichů teplomilných trávníků jižní Moravy.
 
 Jaké prostředí syslům vyhovuje? Je potřeba, aby se skloubily dvě základní potřeby syslů: vidět do okolí na predátory a zároveň mít na svém území dostatek pestré stravy – tedy pestré suchomilné společenstvo rostlin s navazujícími populacemi bezobratlých. Sysel je představitelem stepí, stepní prostředí je jeho přirozeným prostředím. 
@@ -35,15 +31,11 @@ Seč probíhá mozaikovitě, aby zde po celou sezónu byl prostor pro bezobratl�
 
 ![](/media/dscn0679.jpg)
 
-
-
 Posečenou biomasu odklízíme, abychom snížili množství živin v půdě a aby na pozemku nevznikla vrstva zahnívajícího mulče. 
 
 ![](/media/dscn0600.jpg)
 
 ![](/media/dscn0676.jpg)
-
-
 
 V průběhu let se postupně skladba vegetace na louce mění z hustých travnatých porostů na pestrý rozvolněný porost s již významným zastoupením kvetoucích bylin.
 
@@ -61,13 +53,9 @@ V průběhu let se postupně skladba vegetace na louce mění z hustých travnat
 
 ![](/media/img_0182.jpg)
 
-
-
 Při kraji louky podél polní cesty [jsme v roce 2021 také vysadili alej ovocných stromů](www.syslinavinici.cz/news/ovoce-pro-sysly-i-pro-lidi). Stromy zpestří jednolitou plochu, poskytnou stín i vláhu. Ovoce si budou moci utrhnout kolemjdoucí a na tom spadlém na zem si pochutnají sysli. Vysazeny jsou meruňky, třešně, jabloně a moruše. Po dvou letech již měli sysli první ovoce.
 
 ![](/media/20250513_152950.jpg)
-
-
 
 [Stav louky v prvních letech naší péče je vidět zde](www.syslinavinici.cz/news/syslí-louka-v-miroslavi). 
 
