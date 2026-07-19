@@ -7,7 +7,7 @@ description: >-
   U obce Miroslav na Znojemsku se staráme od roku 2021 o hektarovou louku v
   těsném sousedství letiště.
 date: '2026-07-19'
-logoset: ''
+logoset: LIFE
 category: news
 layout: news
 ---
