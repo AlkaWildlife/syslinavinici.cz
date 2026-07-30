@@ -19,7 +19,7 @@ Každý sysel si buduje několik nor a většinou v nich žije sám. Limitem, co
 
 Pastvina exmorských koní v národním parku Podyjí se nachází mezi obcemi Havraníky a Hnanice. Pastva koní slouží k obnově teplomilných vřesovišť, světlých lesů a stepí.  Díky obnově tohoto prostředí se zde v roce 2022 nově usídlili sysli a postupně zde vytváří novou kolonii. 
 
-Při prvním mapování výskytu syslů v okolí Hnanic a Havraníků v rámci nového projektu Zpátky na step bylo zjištěno, že sysli začali obývat i části pastviny, kde se v suchých travnatých stráních vystupují menší či větší skalky. Sysli ve stráni dokážou nejen budovat nory, ale někteří skalních výchozů přímo využívají a budují si nory přímo pod nimi. 
+Při prvním mapování výskytu syslů v okolí Hnanic a Havraníků v rámci nového projektu [Zpátky na step ](/projekty/zpatky-na-step)bylo zjištěno, že sysli začali obývat i části pastviny, kde se v suchých travnatých stráních vystupují menší či větší skalky. Sysli ve stráni dokážou nejen budovat nory, ale někteří skalních výchozů přímo využívají a budují si nory přímo pod nimi. 
 
 Je evidentní, že někdy tvar skály umožňuje vybudovat noru pod ní. To může přinést i několik výhod. Do nory pod skálou méně zatéká voda při deštích. A skála také ztěžuje či znemožňuje predátorům nory rozhrabat či rozšířit, aby se dostali ke kořisti. 
 
