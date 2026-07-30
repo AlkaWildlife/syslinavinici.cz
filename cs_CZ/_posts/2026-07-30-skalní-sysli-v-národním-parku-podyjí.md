@@ -5,6 +5,7 @@ image: /media/1sequence-013_v_620.jpg
 listing_thumbnail: /media/1sequence-013_274.jpg
 description: V národním parku Podyjí žijí vzácní sysli v unikátním prostředí skal.
 date: '2026-07-30'
+logoset: Švýcarské fondy
 category: news
 layout: news
 ---
@@ -29,3 +30,5 @@ Pozorování syslů také ukázalo, že skalnaté pahorky sysli využívají i j
 Takové prostředí je u nás v České republice unikátní. Kolonie syslů se u nás zachovaly především na travnatých letištích, sečených loukách, stepích Českého Středohoří či v záhumenkách vesnic jižní Moravy. Na některých lokalitách lze pozorovat sysly, kteří využili podobným způsobem antropogenní struktury jako např. vybetonované zápraží či jiné zpevněné plochy. Přirozené skalnaté prostředí, které je obýváno sysly, se ale nachází například u našich sousedů. V chráněné lokalitě Tisovský kras ve středním Slovensku se nachází kolonie syslů na pastvině krav, kde ze země vystupují drobné skalky. Zatímto v podyjské pastvině exmorských koní se jedná o žulové skalky, u Tisovce mají skály vápencový původ, tedy i jinou strukturu. Přesto sysli skalky využívají obdobně na obou lokalitách, také si pod nimi a v nich budují nory.
 
 ![](/media/1sequence-01029_620.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SzMNH26AMTE?si=1SfbB_Edo2xW9h-S" frameborder="0" allowfullscreen=""></iframe>
